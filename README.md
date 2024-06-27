@@ -1,7 +1,7 @@
-# BookSite Backend Application
+# AdSite Backend Application
 
 ## Technology Stack:
 
-BookSite backend is powered by Java SpringBoot with H2 database
+AdSite backend is powered by Java SpringBoot with H2 database
 
 Default login: user:user & admin:admin
